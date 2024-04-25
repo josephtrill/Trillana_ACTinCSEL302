@@ -62,4 +62,4 @@ decisions.
 *   They are powering applications in healthcare, finance, transportation, manufacturing, customer service, and more.
 
 # Link in Miterm
-*   <a "href=2A_TRILLANA_MIDTERM/MIDTERM.ipynb">MIDTERM</a>
+*   <a> "href=2A_TRILLANA_MIDTERM/MIDTERM.ipynb">MIDTERM</a>
