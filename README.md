@@ -1,4 +1,24 @@
 # Trillana_ACTinCSEL302
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="calculator.css">
+<title>Calculator</title>
+<style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #2f87aa62;
+        margin: 0;
+        padding: 20px;
+        text-align: center;
+    }
+
+</style>
+
+</head>
+<body>
 # **Demystifying AI: An Introduction to Intelligent Agents**
 
 # What is AI?
@@ -61,6 +81,8 @@ decisions.
 *   AI and intelligent agents are transforming numerous aspects of our lives.
 *   They are powering applications in healthcare, finance, transportation, manufacturing, customer service, and more.
 
-# Link in Miterm
+# Sample Link in  my MIDTERM
 *   <a href="MIDTERM.ipynb">MIDTERM</a>
 
+</body>
+</html>
