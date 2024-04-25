@@ -9,7 +9,7 @@
 
 
 1.   [A Brief History of AI](#A-Brief-History-of-AI)
-2.   [Types of Intelligent Agents](#Types-of-Intelligent-Agents)
+2.   [Types of Intelligent Agents](#types-of-intelligent-agents)
 
 
 
