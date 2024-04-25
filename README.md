@@ -60,3 +60,6 @@ decisions.
 # Conclusion
 *   AI and intelligent agents are transforming numerous aspects of our lives.
 *   They are powering applications in healthcare, finance, transportation, manufacturing, customer service, and more.
+
+# Link in Miterm
+*   <a href=2A_TRILLANA_MIDTERM.ipynb">MIDTERM</a>
