@@ -8,7 +8,7 @@
 # Table of Contents
 
 
-1.   [A Brief History of AI](#A-Brief-History-of-AI)
+1.   [A Brief History of AI](#a-brief-history-of-ai)
 2.   [Types of Intelligent Agents](#types-of-intelligent-agents)
 3.   [Characteristics of Intelligent Agents](#characteristics-of-intelligent-agents)
 4.   [Conclusion](#conclusion)
